@@ -17,7 +17,9 @@ with col2:
 
 st.write("JOB SEARCH")
 
-df = main.jobs()
+title = st.text_input(label="Job Title", value="GIS")
+
+df = main.jobs(title)
 
 event = st.dataframe(df, 
              selection_mode="single-row",

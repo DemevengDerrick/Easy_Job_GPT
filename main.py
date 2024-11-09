@@ -15,8 +15,8 @@ client = OpenAI(api_key=secrets["api_key"])
 
 # get list of jobs from reliefweb
 @st.cache_data
-def jobs():
-    url = "https://api.reliefweb.int/v1/jobs?appname=rwint-user-0&profile=list&preset=latest&slim=1"
+def jobs(title):
+    url = f"https://api.reliefweb.int/v1/jobs?appname=rwint-user-2878403&profile=list&preset=latest&slim=1&query%5Bvalue%5D={title}&query%5Boperator%5D=AND"
     response = rq.get(url)
     if response.status_code == 200:
         # get the result in a dataframe
@@ -30,7 +30,7 @@ def jobs():
             if html_text:
                 job_description.append(html_text)
                 # get suitability from openai
-                suitability = job_suitability(html_text)
+                suitability = job_suitability(html_text, title)
                 job_suitability_score.append(suitability)
             else:
                 job_description.append(None)
@@ -54,8 +54,8 @@ def job_desc_html(html_link):
         return None
 
 # function to rate suitability to the job based on your information.
-def job_suitability(html_text):
-    query = f"{html_text} \n Rate on a scale of 0 to 10 how suitable is the job description to a GIS, Data Analyst and Data Manager"
+def job_suitability(html_text, title):
+    query = f"{html_text} \n Rate on a scale of 0 to 10 how suitable is the job description to a {title}. just give a number without any text, no comments, just a number"
     response = client.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
