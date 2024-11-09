@@ -47,8 +47,11 @@ if uploaded_file is not None:
     st.text_area(label = "CV Preview", value=text, key = 1, height=500)
 
 
-secrets = yaml.safe_load(open(os.path.join(dirname, "secrets.yaml")))
-client = OpenAI(api_key=secrets["api_key"])
+# secrets = yaml.safe_load(open(os.path.join(dirname, "secrets.yaml")))
+# client = OpenAI(api_key=secrets["api_key"])
+
+api_key = st.secrets["api_key"]
+client = OpenAI(api_key=api_key)
 
 def motivation_letter():
     # Generate motivation letter

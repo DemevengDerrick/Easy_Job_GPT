@@ -10,8 +10,9 @@ import os
 # set working dir
 dirname = os.path.dirname(__file__)
 
-secrets = yaml.safe_load(open(os.path.join(dirname, "secrets.yaml")))
-client = OpenAI(api_key=secrets["api_key"])
+#secrets = yaml.safe_load(open(os.path.join(dirname, "secrets.yaml")))
+api_key = st.secrets["api_key"]
+client = OpenAI(api_key=api_key)
 
 # get list of jobs from reliefweb
 @st.cache_data
@@ -67,8 +68,9 @@ def job_suitability(html_text, title):
     return response.choices[0].message.content
 
 if __name__ == "__main__":
-    secrets = yaml.safe_load(open(dirname, "secrets.yaml"))
-    client = OpenAI(api_key=secrets["api_key"])
+    #secrets = yaml.safe_load(open(dirname, "secrets.yaml"))
+    api_key = st.secrets["api_key"]
+    client = OpenAI(api_key=api_key)
 
     df = jobs()
 
