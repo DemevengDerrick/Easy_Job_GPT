@@ -15,10 +15,11 @@ with col1:
 with col2:
     st.title('EASY JOB GPT') 
 
-st.write("JOB SEARCH")
+st.write("Welcome to Easy Job GPT, your personal job application assistant. With Easy Job GPT, you can search for job by job tible, extact job describtion, upload your CV and generate a custom Motivation letter in alignemnet with the Job offer.")
 
-title = st.text_input(label="Job Title", value="GIS")
+title = st.text_input(label="Search Job Title", value="GIS")
 
+st.write("Select a job offer in the table below by selecting the row")
 df = main.jobs(title)
 
 event = st.dataframe(df, 
@@ -39,7 +40,7 @@ except:
 # st.write(url)
 
 # Upload and read CV
-uploaded_file = st.file_uploader("Import CV")
+uploaded_file = st.file_uploader("Upload your CV in word format")
 if uploaded_file is not None:
     # To convert to a string based IO:
     text = docs.extract_text_from_docx(uploaded_file)
@@ -68,11 +69,13 @@ def motivation_letter():
     # return response
     motivation_letter_placeholder.text_area(value = response.choices[0].message.content, label = "Motivation Letter", key = 2, height=500)
 
-st.button("Generate Motivation Letter", on_click=motivation_letter)
+st.button("Generate Motivation Letter", on_click=motivation_letter, icon="🔥")
 # Placeholder for motivation letter
 motivation_letter_placeholder = st.container()
 
 st.caption(body="Derrick Demeveng | linkedIn : www.linkedin.com/in/demeveng-derrick")
+
+
 
 
 

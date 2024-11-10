@@ -72,9 +72,9 @@ if __name__ == "__main__":
     api_key = st.secrets["api_key"]
     client = OpenAI(api_key=api_key)
 
-    df = jobs()
+    #df = jobs()
 
-    print(df)
+    print(api_key)
 
 
 
