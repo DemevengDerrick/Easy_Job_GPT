@@ -8,18 +8,19 @@ import os
 # set working dir
 dirname = os.path.dirname(__file__)
 img = os.path.join(dirname, "img/image.png")
+
 # Page title
 col1, mid, col2 = st.columns([1,1,20])
 with col1:
     st.image(img, width=73)
 with col2:
-    st.title('EASY JOB GPT') 
+    st.title('EASY J👽B GPT') 
 
 st.write("Welcome to Easy Job GPT, your personal job application assistant. With Easy Job GPT, you can search for job by job tible, extact job describtion, upload your CV and generate a custom Motivation letter in alignemnet with the Job offer.")
 
-title = st.text_input(label="Search Job Title", value="GIS")
+title = st.text_input(label="🔭Step 1: Search Job Title", value="GIS")
 
-st.write("Select a job offer in the table below by selecting the row")
+st.write("🎯Step 2: Select a job offer in the table below by selecting the row")
 df = main.jobs(title)
 
 event = st.dataframe(df, 
@@ -40,7 +41,7 @@ except:
 # st.write(url)
 
 # Upload and read CV
-uploaded_file = st.file_uploader("Upload your CV in word format")
+uploaded_file = st.file_uploader("📋Step 3: Upload your CV in word format")
 if uploaded_file is not None:
     # To convert to a string based IO:
     text = docs.extract_text_from_docx(uploaded_file)
