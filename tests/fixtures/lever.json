@@ -1,0 +1,34 @@
+[
+ {
+  "categories": {
+   "commitment": "Full-time",
+   "location": "Singapore, Singapore",
+   "team": "Administrative",
+   "allLocations": [
+    "Singapore, Singapore"
+   ]
+  },
+  "createdAt": 1786469891368,
+  "descriptionPlain": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partne",
+  "id": "6ed76ce8-4156-4b60-b120-403538bd66cd",
+  "text": "Administrative Business Partner",
+  "workplaceType": "hybrid",
+  "hostedUrl": "https://jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd"
+ },
+ {
+  "categories": {
+   "commitment": "Full-time",
+   "location": "London, United Kingdom",
+   "team": "Administrative",
+   "allLocations": [
+    "London, United Kingdom"
+   ]
+  },
+  "createdAt": 1711403416463,
+  "descriptionPlain": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partne",
+  "id": "ac978161-6f46-4f6b-ad9e-a258e642751c",
+  "text": "Administrative Business Partner",
+  "workplaceType": "hybrid",
+  "hostedUrl": "https://jobs.lever.co/palantir/ac978161-6f46-4f6b-ad9e-a258e642751c"
+ }
+]

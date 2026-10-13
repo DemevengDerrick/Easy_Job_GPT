@@ -1,0 +1,608 @@
+{
+ "totalCount": 64,
+ "requisitions": [
+  {
+   "requisitionId": 38679,
+   "postingEffectiveDate": "10/13/2026",
+   "postingExpirationDate": "10/28/2026",
+   "displayJobTitle": "E T Consultant",
+   "locations": [
+    {
+     "city": "Chennai",
+     "country": "IN"
+    }
+   ],
+   "externalDescription": " At the World Bank, a member of the World Bank Group (WBG), you’ll join a diverse, global community working across cultures, disciplines, and borders to address the world’s most pressing development challenges. With 1.2 billion young people reaching working age in the decade ahead, the challenge of "
+  },
+  {
+   "requisitionId": 38657,
+   "postingEffectiveDate": "10/13/2026",
+   "postingExpirationDate": "10/28/2026",
+   "displayJobTitle": "E T Consultant (IT Workforce Development & Engagement)",
+   "locations": [
+    {
+     "city": "Washington, DC",
+     "country": "US"
+    }
+   ],
+   "externalDescription": " At the World Bank, a member of the World Bank Group (WBG), you’ll join a diverse, global community working across cultures, disciplines, and borders to address the world’s most pressing development challenges. With 1.2 billion young people reaching working age in the decade ahead, the challenge of "
+  }
+ ],
+ "filters": [
+  {
+   "filterType": "Country",
+   "doLocalize": true,
+   "items": [
+    {
+     "key": "us",
+     "text": "Country.US",
+     "count": 29
+    },
+    {
+     "key": "in",
+     "text": "Country.IN",
+     "count": 6
+    },
+    {
+     "key": "bg",
+     "text": "Country.BG",
+     "count": 4
+    },
+    {
+     "key": "pa",
+     "text": "Country.PA",
+     "count": 4
+    },
+    {
+     "key": "br",
+     "text": "Country.BR",
+     "count": 3
+    },
+    {
+     "key": "co",
+     "text": "Country.CO",
+     "count": 3
+    },
+    {
+     "key": "sg",
+     "text": "Country.SG",
+     "count": 3
+    },
+    {
+     "key": "ec",
+     "text": "Country.EC",
+     "count": 2
+    },
+    {
+     "key": "id",
+     "text": "Country.ID",
+     "count": 2
+    },
+    {
+     "key": "kr",
+     "text": "Country.KR",
+     "count": 2
+    },
+    {
+     "key": "mx",
+     "text": "Country.MX",
+     "count": 2
+    },
+    {
+     "key": "ph",
+     "text": "Country.PH",
+     "count": 2
+    },
+    {
+     "key": "ao",
+     "text": "Country.AO",
+     "count": 1
+    },
+    {
+     "key": "at",
+     "text": "Country.AT",
+     "count": 1
+    },
+    {
+     "key": "bo",
+     "text": "Country.BO",
+     "count": 1
+    },
+    {
+     "key": "cl",
+     "text": "Country.CL",
+     "count": 1
+    },
+    {
+     "key": "cn",
+     "text": "Country.CN",
+     "count": 1
+    },
+    {
+     "key": "gh",
+     "text": "Country.GH",
+     "count": 1
+    },
+    {
+     "key": "kw",
+     "text": "Country.KW",
+     "count": 1
+    },
+    {
+     "key": "mz",
+     "text": "Country.MZ",
+     "count": 1
+    },
+    {
+     "key": "ro",
+     "text": "Country.RO",
+     "count": 1
+    },
+    {
+     "key": "sa",
+     "text": "Country.SA",
+     "count": 1
+    },
+    {
+     "key": "sn",
+     "text": "Country.SN",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "filterType": "City",
+   "doLocalize": false,
+   "items": [
+    {
+     "key": "washington, dc",
+     "text": "Washington, Dc",
+     "count": 29
+    },
+    {
+     "key": "sofia",
+     "text": "Sofia",
+     "count": 4
+    },
+    {
+     "key": "bogota",
+     "text": "Bogota",
+     "count": 3
+    },
+    {
+     "key": "chennai",
+     "text": "Chennai",
+     "count": 3
+    },
+    {
+     "key": "panama city",
+     "text": "Panama City",
+     "count": 3
+    },
+    {
+     "key": "singapore",
+     "text": "Singapore",
+     "count": 3
+    },
+    {
+     "key": "jakarta",
+     "text": "Jakarta",
+     "count": 2
+    },
+    {
+     "key": "manila",
+     "text": "Manila",
+     "count": 2
+    },
+    {
+     "key": "mumbai",
+     "text": "Mumbai",
+     "count": 2
+    },
+    {
+     "key": "quito",
+     "text": "Quito",
+     "count": 2
+    },
+    {
+     "key": "sao paulo",
+     "text": "Sao Paulo",
+     "count": 2
+    },
+    {
+     "key": "seoul",
+     "text": "Seoul",
+     "count": 2
+    },
+    {
+     "key": "accra",
+     "text": "Accra",
+     "count": 1
+    },
+    {
+     "key": "bucharest",
+     "text": "Bucharest",
+     "count": 1
+    },
+    {
+     "key": "dakar",
+     "text": "Dakar",
+     "count": 1
+    },
+    {
+     "key": "hong kong",
+     "text": "Hong Kong",
+     "count": 1
+    },
+    {
+     "key": "la paz",
+     "text": "La Paz",
+     "count": 1
+    },
+    {
+     "key": "luanda",
+     "text": "Luanda",
+     "count": 1
+    },
+    {
+     "key": "maputo",
+     "text": "Maputo",
+     "count": 1
+    },
+    {
+     "key": "mexico city",
+     "text": "Mexico City",
+     "count": 1
+    },
+    {
+     "key": "new delhi",
+     "text": "New Delhi",
+     "count": 1
+    },
+    {
+     "key": "santiago",
+     "text": "Santiago",
+     "count": 1
+    },
+    {
+     "key": "vienna",
+     "text": "Vienna",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "filterType": "DatePosted",
+   "doLocalize": true,
+   "items": [
+    {
+     "key": "WithinOneDay",
+     "text": "WithinOneDay",
+     "count": 5
+    },
+    {
+     "key": "WithinThreeDays",
+     "text": "WithinThreeDays",
+     "count": 5
+    },
+    {
+     "key": "WithinSevenDays",
+     "text": "WithinSevenDays",
+     "count": 33
+    },
+    {
+     "key": "WithinFifteenDays",
+     "text": "WithinFifteenDays",
+     "count": 62
+    },
+    {
+     "key": "WithinThirtyDays",
+     "text": "WithinThirtyDays",
+     "count": 64
+    },
+    {
+     "key": "Anytime",
+     "text": "Anytime",
+     "count": 64
+    }
+   ]
+  }
+ ],
+ "customFieldFilters": [
+  {
+   "id": "13",
+   "items": [
+    {
+     "key": "15",
+     "count": 14
+    },
+    {
+     "key": "3377",
+     "count": 11
+    },
+    {
+     "key": "14",
+     "count": 10
+    },
+    {
+     "key": "3376",
+     "count": 9
+    },
+    {
+     "key": "16",
+     "count": 7
+    },
+    {
+     "key": "13",
+     "count": 4
+    },
+    {
+     "key": "3378",
+     "count": 3
+    },
+    {
+     "key": "12",
+     "count": 2
+    },
+    {
+     "key": "3384",
+     "count": 2
+    },
+    {
+     "key": "3383",
+     "count": 1
+    },
+    {
+     "key": "9",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "items": [
+    {
+     "key": "62",
+     "count": 62
+    },
+    {
+     "key": "61",
+     "count": 1
+    },
+    {
+     "key": "64",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "items": [
+    {
+     "key": "114",
+     "count": 40
+    },
+    {
+     "key": "115",
+     "count": 24
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "items": [
+    {
+     "key": "120",
+     "count": 37
+    },
+    {
+     "key": "121",
+     "count": 14
+    },
+    {
+     "key": "3473",
+     "count": 11
+    },
+    {
+     "key": "122",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "items": [
+    {
+     "key": "124",
+     "count": 61
+    },
+    {
+     "key": "125",
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "36",
+   "items": [
+    {
+     "key": "137",
+     "count": 40
+    },
+    {
+     "key": "136",
+     "count": 24
+    }
+   ]
+  },
+  {
+   "id": "44",
+   "items": [
+    {
+     "key": "145",
+     "count": 63
+    },
+    {
+     "key": "156",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "45",
+   "items": [
+    {
+     "key": "159",
+     "count": 35
+    },
+    {
+     "key": "160",
+     "count": 25
+    },
+    {
+     "key": "162",
+     "count": 2
+    },
+    {
+     "key": "164",
+     "count": 1
+    },
+    {
+     "key": "168",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "47",
+   "items": [
+    {
+     "key": "170",
+     "count": 36
+    },
+    {
+     "key": "3403",
+     "count": 25
+    },
+    {
+     "key": "169",
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "items": [
+    {
+     "key": "100",
+     "count": 17
+    },
+    {
+     "key": "103",
+     "count": 9
+    },
+    {
+     "key": "1523",
+     "count": 5
+    },
+    {
+     "key": "1524",
+     "count": 3
+    },
+    {
+     "key": "1545",
+     "count": 3
+    },
+    {
+     "key": "82",
+     "count": 3
+    },
+    {
+     "key": "84",
+     "count": 3
+    },
+    {
+     "key": "1534",
+     "count": 2
+    },
+    {
+     "key": "3430",
+     "count": 2
+    },
+    {
+     "key": "88",
+     "count": 2
+    },
+    {
+     "key": "90",
+     "count": 2
+    },
+    {
+     "key": "98",
+     "count": 2
+    },
+    {
+     "key": "1521",
+     "count": 1
+    },
+    {
+     "key": "1522",
+     "count": 1
+    },
+    {
+     "key": "1530",
+     "count": 1
+    },
+    {
+     "key": "1539",
+     "count": 1
+    },
+    {
+     "key": "79",
+     "count": 1
+    },
+    {
+     "key": "89",
+     "count": 1
+    },
+    {
+     "key": "94",
+     "count": 1
+    },
+    {
+     "key": "96",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": "358",
+   "items": [
+    {
+     "key": "3453",
+     "count": 18
+    },
+    {
+     "key": "3467",
+     "count": 11
+    },
+    {
+     "key": "3454",
+     "count": 8
+    },
+    {
+     "key": "3469",
+     "count": 5
+    },
+    {
+     "key": "3455",
+     "count": 4
+    },
+    {
+     "key": "3452",
+     "count": 1
+    }
+   ]
+  }
+ ]
+}

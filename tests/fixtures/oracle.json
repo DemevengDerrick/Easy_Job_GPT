@@ -1,0 +1,350 @@
+{
+ "SearchId": 1,
+ "Keyword": null,
+ "CorrectedKeyword": null,
+ "UseExactKeywordFlag": false,
+ "SuggestedKeyword": null,
+ "ExecuteSpellCheckFlag": true,
+ "Location": null,
+ "LocationId": null,
+ "Radius": 0,
+ "RadiusUnit": "MI",
+ "SelectedTitlesFacet": null,
+ "SelectedCategoriesFacet": null,
+ "SelectedPostingDatesFacet": null,
+ "SelectedLocationsFacet": null,
+ "LastSelectedFacet": null,
+ "Facets": "TITLES;LOCATIONS;LOCATION_LEVEL1;LOCATION_LEVEL2;LOCATION_LEVEL3;CATEGORIES;POSTING_DATES;WORK_LOCATIONS;FLEX_FIELDS;ORGANIZATIONS;WORKPLACE_TYPES",
+ "Offset": 0,
+ "Limit": 2,
+ "SortBy": "POSTING_DATES_DESC",
+ "TotalJobsCount": 168,
+ "Latitude": null,
+ "Longitude": null,
+ "SiteNumber": "CX_1001",
+ "JobFamilyId": null,
+ "PostingStartDate": null,
+ "PostingEndDate": null,
+ "SelectedWorkLocationsFacet": null,
+ "RequisitionId": null,
+ "CandidateNumber": null,
+ "WorkLocationZipCode": null,
+ "WorkLocationCountryCode": null,
+ "SelectedFlexFieldsFacets": null,
+ "OrganizationId": null,
+ "SelectedOrganizationsFacet": null,
+ "UserTargetFacetName": null,
+ "UserTargetFacetInputTerm": null,
+ "HotJobFlag": null,
+ "WorkplaceType": null,
+ "SelectedWorkplaceTypesFacet": null,
+ "BotQRShortCode": null,
+ "requisitionList": [
+  {
+   "Id": "20799",
+   "Title": "Head of Resources Management (P)",
+   "PostedDate": "2026-10-13",
+   "PostingEndDate": "2026-10-26",
+   "Language": "US",
+   "PrimaryLocationCountry": "LY",
+   "GeographyId": 100000023580921,
+   "HotJobFlag": false,
+   "WorkplaceTypeCode": null,
+   "JobFamily": null,
+   "JobFunction": null,
+   "WorkerType": null,
+   "ContractType": null,
+   "ManagerLevel": null,
+   "JobSchedule": null,
+   "JobShift": null,
+   "JobType": null,
+   "StudyLevel": null,
+   "DomesticTravelRequired": null,
+   "InternationalTravelRequired": null,
+   "WorkDurationYears": null,
+   "WorkDurationMonths": null,
+   "WorkHours": null,
+   "WorkDays": null,
+   "LegalEmployer": null,
+   "BusinessUnit": null,
+   "Department": null,
+   "Organization": null,
+   "BusinessUnitId": 300000127442679,
+   "LegalEmployerId": 300000004765054,
+   "OrganizationId": 10010028,
+   "MediaThumbURL": null,
+   "ShortDescriptionStr": "IOM, UN Migration in Tripoli, Libya is looking for a Head of Resources Management who will be responsible and accountable for managing, monitoring and administering the financial, budgetary, treasury, human resources, supply chain and ICT activities of Libya Country Office and its Sub-Offices.\n",
+   "PrimaryLocation": "Tripoli, Libya",
+   "Distance": 1791849600000.0,
+   "TrendingFlag": true,
+   "BeFirstToApplyFlag": false,
+   "Relevancy": 9,
+   "WorkplaceType": "",
+   "ExternalQualificationsStr": null,
+   "ExternalResponsibilitiesStr": null
+  },
+  {
+   "Id": "23341",
+   "Title": "CFA2026/029_Consultant CBI_Port-au-Prince Haiti",
+   "PostedDate": "2026-10-13",
+   "PostingEndDate": "2026-10-17",
+   "Language": "US",
+   "PrimaryLocationCountry": "HT",
+   "GeographyId": 100000023580733,
+   "HotJobFlag": false,
+   "WorkplaceTypeCode": null,
+   "JobFamily": null,
+   "JobFunction": null,
+   "WorkerType": null,
+   "ContractType": null,
+   "ManagerLevel": null,
+   "JobSchedule": null,
+   "JobShift": null,
+   "JobType": null,
+   "StudyLevel": null,
+   "DomesticTravelRequired": null,
+   "InternationalTravelRequired": null,
+   "WorkDurationYears": null,
+   "WorkDurationMonths": null,
+   "WorkHours": null,
+   "WorkDays": null,
+   "LegalEmployer": null,
+   "BusinessUnit": null,
+   "Department": null,
+   "Organization": null,
+   "BusinessUnitId": 300000127442337,
+   "LegalEmployerId": 300000004765054,
+   "OrganizationId": 10000000,
+   "MediaThumbURL": null,
+   "ShortDescriptionStr": "Créée en 1951, l’Organisation Internationale pour les Migrations (OIM) est l’organisation intergouvernementale chef de file dans le domaine de la migration. Elle est attachée au principe selon lequel des migrations qui s’effectuent en bon ordre et dans le respect de la dignité humaine sont bénéfiques aux migrants et à la société. Elle œuvre de concert avec ses partenaires de la communauté internationale pour aider à relever les défis opérationnels croissants de la migration, améliorer la compréhension des questions migratoires, encourager le développement économique et social par la migration et préserver le bien-être et les droits humains des migrants. Pour plus d’informations sur l’OIM, veuillez visiter : https://www.iom.int/mission \nL'OIM s'engage à offrir un environnement de travail diversifié et inclusif. Pour en savoir plus sur la diversité et l'inclusion à l'OIM, consultez le site www.iom.int/diversity.\n",
+   "PrimaryLocation": "Port-au-Prince, Haiti",
+   "Distance": 1791849600000.0,
+   "TrendingFlag": true,
+   "BeFirstToApplyFlag": false,
+   "Relevancy": 9,
+   "WorkplaceType": "",
+   "ExternalQualificationsStr": null,
+   "ExternalResponsibilitiesStr": null
+  }
+ ],
+ "categoriesFacet": [
+  {
+   "Id": 300000023456622,
+   "Name": "Other",
+   "TotalCount": 32
+  }
+ ],
+ "locationsFacet": [
+  {
+   "Id": 300000000480072,
+   "Name": "Chad",
+   "TotalCount": 8
+  },
+  {
+   "Id": 300000000471811,
+   "Name": "Lebanon",
+   "TotalCount": 7
+  },
+  {
+   "Id": 300000000471445,
+   "Name": "Albania",
+   "TotalCount": 7
+  },
+  {
+   "Id": 300000000471769,
+   "Name": "Jordan",
+   "TotalCount": 7
+  },
+  {
+   "Id": 300000000471775,
+   "Name": "Kenya",
+   "TotalCount": 7
+  },
+  {
+   "Id": 100000023580356,
+   "Name": "Tirana, Albania",
+   "TotalCount": 7
+  },
+  {
+   "Id": 300001491285219,
+   "Name": "OPT Amman, Jordan",
+   "TotalCount": 7
+  },
+  {
+   "Id": 300000000471727,
+   "Name": "Haiti",
+   "TotalCount": 6
+  },
+  {
+   "Id": 100000023580865,
+   "Name": "Nairobi, Kenya",
+   "TotalCount": 6
+  },
+  {
+   "Id": 100000023580885,
+   "Name": "Beirut, Lebanon",
+   "TotalCount": 6
+  }
+ ],
+ "postingDatesFacet": [
+  {
+   "Id": 7,
+   "Name": "Less than 7 days",
+   "TotalCount": 91
+  },
+  {
+   "Id": 30,
+   "Name": "Less than 30 days",
+   "TotalCount": 161
+  },
+  {
+   "Id": 31,
+   "Name": "Greater than 30 days",
+   "TotalCount": 7
+  }
+ ],
+ "titlesFacet": [
+  {
+   "Id": "IOM_OTHER",
+   "Name": "Other",
+   "TotalCount": 27
+  }
+ ],
+ "workLocationsFacet": [
+  {
+   "Id": 300000341578990,
+   "Name": "Amman, OPT",
+   "TotalCount": 7
+  },
+  {
+   "Id": 300000127394683,
+   "Name": "Nairobi, RO",
+   "TotalCount": 5
+  },
+  {
+   "Id": 300000127390562,
+   "Name": "Dublin, CO",
+   "TotalCount": 4
+  },
+  {
+   "Id": 300000127390627,
+   "Name": "Geneva, HQ",
+   "TotalCount": 4
+  },
+  {
+   "Id": 300000127391371,
+   "Name": "Rome, COCF",
+   "TotalCount": 4
+  },
+  {
+   "Id": 300000127392785,
+   "Name": "The Hague, CO",
+   "TotalCount": 4
+  },
+  {
+   "Id": 300000127390367,
+   "Name": "Conakry, CO",
+   "TotalCount": 3
+  },
+  {
+   "Id": 300000127390583,
+   "Name": "Chiriqui",
+   "TotalCount": 3
+  },
+  {
+   "Id": 300000127392665,
+   "Name": "Tirana, CO",
+   "TotalCount": 3
+  },
+  {
+   "Id": 300000127394216,
+   "Name": "Nicosia, CO",
+   "TotalCount": 3
+  }
+ ],
+ "flexFieldsFacet": [
+  {
+   "Name": "AttributeChar1",
+   "Label": "Contract Type"
+  },
+  {
+   "Name": "AttributeChar3",
+   "Label": "Org Type"
+  },
+  {
+   "Name": "AttributeChar4",
+   "Label": "Vacancy Type"
+  },
+  {
+   "Name": "AttributeChar5",
+   "Label": "Recruiting Type"
+  },
+  {
+   "Name": "AttributeChar6",
+   "Label": "Grade"
+  },
+  {
+   "Name": "AttributeChar8",
+   "Label": "Is this S/VN based in an L3 office or in support to an L3 emergency response?"
+  }
+ ],
+ "organizationsFacet": [
+  {
+   "Id": 10000000,
+   "Name": "International Organization for Migration (10000000)",
+   "TotalCount": 136
+  },
+  {
+   "Id": 10003783,
+   "Name": "Projects & Programme Coordination (10003783)",
+   "TotalCount": 3
+  },
+  {
+   "Id": 10005730,
+   "Name": "Border Management (10005730)",
+   "TotalCount": 3
+  },
+  {
+   "Id": 10023000,
+   "Name": "Site Management Support (10023000)",
+   "TotalCount": 3
+  },
+  {
+   "Id": 10021986,
+   "Name": "Transfer Ukrainians L-Term Accommodation (10021986)",
+   "TotalCount": 2
+  },
+  {
+   "Id": 10022146,
+   "Name": "Mental Health Psycho-Social Support (10022146)",
+   "TotalCount": 2
+  },
+  {
+   "Id": 10000275,
+   "Name": "BG-SOFIA (10000275)",
+   "TotalCount": 1
+  },
+  {
+   "Id": 10000320,
+   "Name": "UA-KYIV (10000320)",
+   "TotalCount": 1
+  },
+  {
+   "Id": 10000325,
+   "Name": "DZ-ALGIERS (10000325)",
+   "TotalCount": 1
+  },
+  {
+   "Id": 10005059,
+   "Name": "QA-QATAR (10005059)",
+   "TotalCount": 1
+  }
+ ],
+ "workplaceTypesFacet": [
+  {
+   "Id": "ORA_ON_SITE",
+   "Name": "On-site",
+   "TotalCount": 168
+  }
+ ]
+}

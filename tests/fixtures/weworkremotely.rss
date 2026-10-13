@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss">
+  <channel>
+    <title>We Work Remotely: Remote jobs in design, programming, marketing and more</title>
+    <link>https://weworkremotely.com/remote-jobs.rss</link>
+    <description>We Work Remotely: Remote jobs in design, programming, marketing and more</description>
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0171/6563/logo.gif" type="image/png"/>
+      <title>Kyro AI: Sales Development Representative</title>
+      <region>Anywhere in the World</region>
+      <country></country>
+      <state>Alabama</state>
+      <skills>Sales Management, Sales,  Client Relationship Management, Communication Skills, Client Relations, Sales Enablement, and  Stakeholder Communication</skills>
+      <category>Sales and Marketing</category>
+      <type>Contract</type>
+      <description>&lt;p&gt;Short&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:13:53 +0000</pubDate>
+      <expires_at>Thu, 12 Nov 2026 17:13:53 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/kyro-ai-sales-development-representative</guid>
+      <link>https://weworkremotely.com/remote-jobs/kyro-ai-sales-development-representative</link>
+    </item><item>
+      <media:content url="https://wwr-pro.s3.amazonaws.com/logos/0171/6567/logo.gif" type="image/png"/>
+      <title>Airbnb: Senior Manager, Quality, Volume Tiers</title>
+      <region>Anywhere in the World</region>
+      <country>🇨🇦 Canada</country>
+      <state>California</state>
+      <skills></skills>
+      <category>Management and Finance</category>
+      <type>Full-Time</type>
+      <description>&lt;p&gt;Short&lt;/p&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:03:22 +0000</pubDate>
+      <expires_at>Thu, 12 Nov 2026 17:03:22 +0000</expires_at>
+      <guid>https://weworkremotely.com/remote-jobs/airbnb-senior-manager-quality-volume-tiers</guid>
+      <link>https://weworkremotely.com/remote-jobs/airbnb-senior-manager-quality-volume-tiers</link>
+    </item></channel></rss>

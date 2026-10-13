@@ -1,0 +1,55 @@
+# Which job sources to search. Set `enabled: false` to switch one off.
+# org_type must be one of: UN system | Development bank / IFI | African Union |
+#                          NGO / International | Job board | Company
+
+un_careers:
+  enabled: true
+
+reliefweb:            # needs RELIEFWEB_APPNAME
+  enabled: true
+
+oracle_recruiting:
+  - {name: UNDP, host: estm.fa.em2.oraclecloud.com, site: CX_1, org_type: UN system}
+  - {name: IOM, host: fa-evlj-saasfaprod1.fa.ocs.oraclecloud.com, site: CX_1001, org_type: UN system}
+
+taleo:
+  - {name: WHO, host: careers.who.int, section: ex, portal: "101430233", date_column: posted, org_type: UN system}
+  - {name: FAO, host: jobs.fao.org, section: fao_external, portal: "8105120163", date_column: deadline, org_type: UN system}
+  - {name: IAEA, host: iaea.taleo.net, section: ex, portal: "8105100373", date_column: deadline, org_type: UN system}
+
+workday:
+  - {name: WFP, tenant: wfp, wd: wd3, site: job_openings, org_type: UN system}
+  - {name: UNHCR, tenant: unhcr, wd: wd3, site: External, org_type: UN system}
+  - {name: IMF, tenant: imf, wd: wd5, site: IMF, org_type: Development bank / IFI}
+  - {name: The Global Fund, tenant: theglobalfund, wd: wd1, site: External, org_type: NGO / International}
+
+cornerstone:
+  - {name: World Bank Group, corp: worldbankgroup, site_id: 1, org_type: Development bank / IFI}
+
+successfactors_rss:
+  - {name: UNESCO, host: careers.unesco.org, org_type: UN system}
+  - {name: ILO, host: jobs.ilo.org, org_type: UN system}
+  - {name: African Union, host: jobs.au.int, org_type: African Union}
+
+pageup:
+  - {name: UNICEF, host: jobs.unicef.org, org_type: UN system}
+
+adzuna:               # needs ADZUNA_APP_ID + ADZUNA_APP_KEY
+  enabled: true
+  countries: [gb, us, za, in]
+
+jooble:               # needs JOOBLE_KEY
+  enabled: true
+
+remotive: {enabled: true}
+arbeitnow: {enabled: true, pages: 3}
+remoteok: {enabled: true}
+weworkremotely: {enabled: true}
+
+greenhouse:
+  enabled: true
+  boards: [wikimedia, givedirectly, esri, planetlabs, developmentseed, gitlab]
+
+lever:
+  enabled: true
+  boards: [palantir]
