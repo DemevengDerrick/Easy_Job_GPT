@@ -1,0 +1,33 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://job-boards.greenhouse.io/developmentseed/jobs/4314238003",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 4210465003,
+   "location": {
+    "name": "Global"
+   },
+   "metadata": null,
+   "id": 4314238003,
+   "updated_at": "2026-09-30T14:44:14-04:00",
+   "requisition_id": "1",
+   "title": "General Application",
+   "company_name": "Development Seed",
+   "first_published": "2021-01-06T19:07:19-05:00",
+   "language": "en",
+   "application_deadline": null
+  }
+ ],
+ "meta": {
+  "total": 1
+ }
+}

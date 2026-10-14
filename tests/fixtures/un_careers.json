@@ -1,0 +1,130 @@
+{
+ "list": [
+  {
+   "_id": "6ace5998dca68dca0a699ed5",
+   "jobId": 286363,
+   "language": "EN",
+   "categoryCode": "CON",
+   "jobTitle": "Mid-Level Artificial Intelligence Engineer",
+   "postingTitle": "Mid-Level Artificial Intelligence Engineer",
+   "jobCodeTitle": "",
+   "jobDescription": "<div class='jobPostingDetail'>\n\r<div class='jobPostingItem'><div class='jobPostingItemTitle'>Result of Service</div><div class='jobPostingItemContent'>",
+   "jobFamilyCode": "INT",
+   "jobLevel": "CON",
+   "dutyStation": [
+    {
+     "code": "2490",
+     "description": "BEIRUT",
+     "_id": "6ace5998274b271c5ea0ca18"
+    }
+   ],
+   "recruitmentType": "C",
+   "startDate": "2026-10-13T04:00:00.000Z",
+   "endDate": "2026-10-20T03:59:59.000Z",
+   "jc": {
+    "code": "CON",
+    "name": "Affiliate Personnel – Consultants/Individual Contractors"
+   },
+   "jl": {
+    "code": "CON",
+    "name": "CON"
+   },
+   "recrttype": {
+    "code": "C",
+    "name": "Consultant"
+   },
+   "dept": {
+    "code": "11741174",
+    "name": "Economic and Social Commission for Western Asia"
+   },
+   "totalCount": 456
+  },
+  {
+   "_id": "6ace0547dca68d12f43f3afc",
+   "jobId": 286385,
+   "language": "EN",
+   "categoryCode": "INT",
+   "jobTitle": "GlobalABC Intern - ICBC and Hubs & Action Groups",
+   "postingTitle": "GlobalABC Intern - ICBC and Hubs & Action Groups",
+   "jobCodeTitle": "",
+   "jobDescription": "<div class='jobPostingDetail'>\n\r<div class='jobPostingItem'><div class='jobPostingItemTitle'>Work Location</div><div class='jobPostingItemContent'>Paris, France</div></div>\n\r<div class='jobPostingItem'><div class='jobPostingItemTitle'>Expected duration</div><div class='jobPostingItemContent'>6 months</div></div>\n\r<div class='jobPostingItem'><div class='jobPostingItemTitle'>",
+   "jobFamilyCode": "ENV",
+   "jobLevel": "I-1",
+   "dutyStation": [
+    {
+     "code": "1470",
+     "description": "PARIS",
+     "_id": "6ace5999274b271c5ea0cac4"
+    }
+   ],
+   "recruitmentType": "V",
+   "startDate": "2026-10-13T04:00:00.000Z",
+   "endDate": "2026-10-23T03:59:59.000Z",
+   "jf": {
+    "Code": "ENV",
+    "Name": "Environmental Affairs"
+   },
+   "jc": {
+    "code": "INT",
+    "name": "Affiliate Personnel – Internships"
+   },
+   "jl": {
+    "code": "1101",
+    "name": "I-1"
+   },
+   "recrttype": {
+    "code": "N",
+    "name": "Intern"
+   },
+   "dept": {
+    "code": "22302230",
+    "name": "United Nations Environment Programme"
+   },
+   "totalCount": 456
+  },
+  {
+   "_id": "6ace0547dca68d12f43f3afb",
+   "jobId": 286303,
+   "language": "EN",
+   "categoryCode": "INT",
+   "jobTitle": "Intern: Data Analysis and Results Management",
+   "postingTitle": "Intern: Data Analysis and Results Management",
+   "jobCodeTitle": "",
+   "jobDescription": "<div class='jobPostingDetail'>\n\r<div class='jobPostingItem'><div class='jobPostingItemTitle'>Work Location</div><div class='jobPostingItemContent'>ITC Headquarters in Geneva. Switzerland</div></div>\n\r<div class='jobPostingItem'><div class='jobPostingItemTitle'>Expected duration</div><div class='jobPostingItemContent'>3 months</div></div>\n\r<div class='jobPostingItem'>",
+   "jobFamilyCode": "PGM",
+   "jobLevel": "I-1",
+   "dutyStation": [
+    {
+     "code": "5750",
+     "description": "GENEVA",
+     "_id": "6ace5999274b271c5ea0cac2"
+    }
+   ],
+   "recruitmentType": "V",
+   "startDate": "2026-10-13T04:00:00.000Z",
+   "endDate": "2026-10-21T03:59:59.000Z",
+   "jf": {
+    "Code": "PGM",
+    "Name": "Programme Management"
+   },
+   "jc": {
+    "code": "INT",
+    "name": "Affiliate Personnel – Internships"
+   },
+   "jl": {
+    "code": "1101",
+    "name": "I-1"
+   },
+   "recrttype": {
+    "code": "N",
+    "name": "Intern"
+   },
+   "dept": {
+    "code": "U10009528",
+    "name": "International Trade Centre"
+   },
+   "totalCount": 456
+  }
+ ],
+ "count": 456
+}

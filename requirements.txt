@@ -1,6 +1,10 @@
 requests
 beautifulsoup4
-openai
+feedparser
+python-dateutil
 PyYAML
+pandas
 streamlit
-python-docx
+SQLAlchemy>=2.0
+psycopg[binary]
+pytest

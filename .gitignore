@@ -1,3 +1,12 @@
-# Ignore secrets file
+# Secrets
 secrets.yaml
 .streamlit/secrets.toml
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local SQLite database used when DATABASE_URL is not set
+jobfinder.db

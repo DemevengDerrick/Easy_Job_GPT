@@ -1,0 +1,48 @@
+{
+ "data": [
+  {
+   "slug": "account-solutions-architect-greenfield-dach-330505",
+   "company_name": "Coreweaveu",
+   "title": "Account Solutions Architect - Greenfield - DACH",
+   "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;div&gt;\n&lt;div&gt;\n&lt;div class=&quot;gmail_quote&quot;&gt;\n&lt;div&gt;\n&lt;div&gt;&lt;span id=&quot;m_-113912706363268805m_-2746164444908759431gmail-d",
+   "remote": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/coreweaveu/account-solutions-architect-greenfield-dach-330505",
+   "tags": [
+    "Global Field Organization"
+   ],
+   "job_types": [],
+   "location": "",
+   "created_at": 1791924909
+  },
+  {
+   "slug": "principal-engineer-berlin-368498",
+   "company_name": "intercom",
+   "title": "Principal Engineer",
+   "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://fin.ai/&quot;&gt;Fin&lt;/a&gt;, now part of Salesforce, is on a mission to help businesses provide perfect customer experie",
+   "remote": false,
+   "url": "https://www.arbeitnow.com/jobs/companies/intercom/principal-engineer-berlin-368498",
+   "tags": [
+    "Engineering"
+   ],
+   "job_types": [],
+   "location": "Berlin",
+   "created_at": 1791924906
+  }
+ ],
+ "links": {
+  "first": "https://www.arbeitnow.com/api/job-board-api?page=1",
+  "last": null,
+  "prev": null,
+  "next": "https://www.arbeitnow.com/api/job-board-api?page=2"
+ },
+ "meta": {
+  "current_page": 1,
+  "current_page_url": "https://www.arbeitnow.com/api/job-board-api?page=1",
+  "from": 1,
+  "path": "https://www.arbeitnow.com/api/job-board-api",
+  "per_page": 300,
+  "to": 300,
+  "terms": "This is a free public API for jobs, please do not abuse. I would appreciate linking back to the site. By using the API, you agree to the terms of service present on Arbeitnow.com",
+  "info": "Jobs are updated every hour and order by the `created_at` timestamp. Use `?page=` to paginate. Read more information here: https://www.arbeitnow.com/blog/job-board-api"
+ }
+}
